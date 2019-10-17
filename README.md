@@ -1,12 +1,12 @@
 # Photography Learning App
 
-## Motivation to the project / Rationale of the project
+## Why this project
 
 I enjoy pjotography and when I started learning photography, I found it was difficult to get judgement on the  photos (atleast good or bad) instantly. I upload pictures to any famous photography websites and wait for the likes or comments, that was the only judgment one could get. It is painful  and time consuming for the photography amateurs. What if the famous photography blogs, such as 500px or flicker, has a web application that could decide the photo is good or bad instantly whaen it is uploaded.
 
 ## How the project is made
 
-####Getting and cleaning  data
+#### Getting and cleaning  data
 
 **.** BeautifulSoup and Selenium are used for webscraping
 
@@ -38,7 +38,7 @@ I enjoy pjotography and when I started learning photography, I found it was diff
 
 ## Uses of image analysis
 
-With this experience I can also anlyse images related to other areas such as:
+With this experience I can also analyse images related to other areas such as:
 
 **.** Cancer histopathology image processing to identify the stages of cancer.
 
